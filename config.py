@@ -1,6 +1,5 @@
 BOT_TOKEN = '5256539248:AAE69DivG2gycCPVwEVBwtnlRBUAZTpmSFI'
-PV_USERS = ['tigerpu']
-
+PV_USERS = ['hunter4345']
 USERS = {}
 def saveDB():
     import os
