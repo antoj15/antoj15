@@ -1,4 +1,4 @@
-BOT_TOKEN = '5200311214:AAFtuZ-8VkWca0C_8DVtfGiKQL9VmauJ-kk'
+BOT_TOKEN = '5108631730:AAGEdfGrYoIkWkd7RxMRjoTh_6_SSgfc6Wg'
 PV_USERS = ['Lololo2022','Programerhack2022']
 
 USERS = {}
